@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07162f"/><stop offset="1" stop-color="#103f7a"/></linearGradient><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#71b8ef" stroke-opacity=".08"/></pattern></defs>
+<rect width="1280" height="360" rx="22" fill="url(#bg)"/><rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="1140" cy="30" r="220" fill="#2563eb" opacity=".11"/>
+<rect x="56" y="49" width="228" height="28" rx="14" fill="#153c65" stroke="#3699d4" stroke-opacity=".5"/>
+<text x="73" y="68" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#7dd3fc" letter-spacing="2">DATA &amp; BUSINESS INTELLIGENCE</text>
+<text x="56" y="144" font-family="Arial,sans-serif" font-size="47" font-weight="bold" fill="#f0f9ff">Fernanda Mendes</text>
+<text x="58" y="187" font-family="Arial,sans-serif" font-size="22" fill="#b9dcf8">Analista de Dados Júnior</text>
+<rect x="58" y="213" width="66" height="4" rx="2" fill="#38bdf8"/>
+<text x="58" y="253" font-family="Arial,sans-serif" font-size="17" fill="#d2e8ff">Dados confiáveis. Análises claras. Decisões informadas.</text>
+<text x="58" y="307" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#7dd3fc">SQL  /  PYTHON  /  POWER BI  /  ETL</text>
+<rect x="854" y="72" width="360" height="220" rx="16" fill="#071c38" stroke="#39739c" stroke-opacity=".6"/>
+<circle cx="877" cy="93" r="4" fill="#38bdf8"/><circle cx="892" cy="93" r="4" fill="#3170ac"/><circle cx="907" cy="93" r="4" fill="#3170ac"/>
+<path d="M878 249H1187 M878 208H1187 M878 167H1187 M878 126H1187" stroke="#1b3555" fill="none"/>
+<g fill="#1c4a75"><rect x="887" y="218" width="22" height="31" rx="3"/><rect x="932" y="192" width="22" height="57" rx="3"/><rect x="977" y="204" width="22" height="45" rx="3"/><rect x="1022" y="166" width="22" height="83" rx="3"/><rect x="1067" y="148" width="22" height="101" rx="3"/><rect x="1112" y="165" width="22" height="84" rx="3"/><rect x="1157" y="118" width="22" height="131" rx="3"/></g>
+<path d="M898 200L943 170L988 180L1033 147L1078 125L1123 140L1168 102" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<g fill="#7dd3fc"><circle cx="898" cy="200" r="4"/><circle cx="943" cy="170" r="4"/><circle cx="988" cy="180" r="4"/><circle cx="1033" cy="147" r="4"/><circle cx="1078" cy="125" r="4"/><circle cx="1123" cy="140" r="4"/><circle cx="1168" cy="102" r="4"/></g>
+<text x="878" y="273" font-family="Arial,sans-serif" font-size="10" fill="#6e9ec7" letter-spacing="1">ILUSTRAÇÃO CONCEITUAL · DADOS → INSIGHTS</text>
+</svg>
